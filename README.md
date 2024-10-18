@@ -16,11 +16,51 @@ Maven Fuzzy Factory is a newly launched frictional eCommerce retail startup that
 3. Solve practical hands-on assignments and real-world e-commerce use cases to solidify your skills.  
 4. Analyze data across multiple tables with the efficiency of powerful MySQL JOIN statements.  
 
-## Project Structure:
+## Database
 
-1. Project1.sql & Project2.sql: 2 projects to solve database queries.  
-2. Tables Structure Explained.md: Explain in detail how each table is represented and linked to each other.  
-3. Create_mavenfuzzyfactory.sql: Tables structure and data.  
+The website_sessions table contains 9 columns:  
+
+"website_session_id": This column contains a unique identifier for each website session. It serves as a reference number or label for individual sessions.  
+
+"created_at": The "created_at" column records the timestamp indicating when each website session was created. This information helps track the timing and frequency of sessions.  
+
+"user_id": Each customer or user is assigned a unique identifier in the "user_id" column. This allows for tracking and distinguishing different users within the dataset.  
+
+"is_repeat_session": This binary variable indicates whether a session is a repeat session or not. It provides insight into user behavior and helps identify returning visitors.  
+
+"utm_source", "utm_campaign", "utm_content": These three columns, namely "utm_source", "utm_campaign", and "utm_content," correspond to the urchin tracking module parameters used to measure marketing paid activities. They help identify the sources and campaigns that drove traffic to the website.  
+
+"device_type": The "device_type" column categorizes the type of device used by the user during the website session. It has two possible values: "desktop" or "mobile."  
+
+"http_referer": The "http_referer" column indicates the source or origin of the website traffic. It provides information on the website or page from which the user arrived at the current website session.  
+
+The ‘website_pageviews’ table contains 4 columns:  
+
+"website_pageview_id": This column contains a unique identifier for each page that the customer viewed. It serves as a distinct reference number or label for individual page views.  
+
+"created_at": The "created_at" column records the timestamp indicating when each page view occurred. This information helps track the timing and sequence of page views within a website session.  
+
+"website_session_id": Similar to the corresponding column in the "website_sessions" table, this column contains a unique identifier for each website session. It serves as a reference number or label that links the page views to their respective website sessions.  
+
+"pageview_url": The "pageview_url" column contains the specific URL or webpage that the customer viewed during their website session. This information allows us to understand which pages were accessed and analyze user navigation patterns.  
+
+The "orders" table comprises nine columns:  
+
+"order_id": This column contains a unique identifier for each order.  
+
+"created_at": This column indicates the timestamp when the order was placed.  
+
+"website_session_id": This column contains a unique identifier for each website session, same to the "website_session_id" in the previous two tables.  
+
+"user_id": This column corresponds to the "user_id" in the "website_sessions" table. Each customer or user is assigned a unique identifier in the "user_id" column.  
+
+"primary_product_id": This binary variable indicates whether the product is the primary product in an order or not. It is used for cross-sell analysis.  
+
+"items_purchased": This column indicates the items that were purchased in an order.  
+
+"price_usd": This column denotes the price of the order in US dollars.  
+
+"cogs_usd": This column represents the cost of goods sold in US dollars.  
 
 ## 1.Traffic Sources Analysis
 Tables Used: website_sessions, orders  
