@@ -24,9 +24,13 @@ Maven Fuzzy Factory is a newly launched frictional eCommerce retail startup that
 
 ## 1.Traffic Sources Analysis
 Tables Used: website_sessions, orders  
+
+
+Traffic source analysis refers to the process of evaluating and understanding the different channels or sources driving visitors to a website. It involves analyzing and categorizing where website traffic is coming from to determine which marketing efforts or platforms are contributing most to the influx of visitors. The goal of traffic source analysis is to identify and assess the effectiveness of various marketing channels and campaigns in driving website traffic. This analysis helps businesses make informed decisions about their marketing strategies, budget allocation, and audience targeting. In this section, we aim to address the following two questions.  
 ### 1.1  What is the primary source of website traffic?
 
-![图片的描述](./Advanced SQL/1.1.png)
+![image](./images/1.1.image)
+
 
 
 ## 2. Website Performance Analysis  
