@@ -23,6 +23,11 @@ Maven Fuzzy Factory is a newly launched frictional eCommerce retail startup that
 3. Create_mavenfuzzyfactory.sql: Tables structure and data.  
 
 ## 1.Traffic Sources Analysis
+Tables Used: website_sessions, orders  
+### 1.1  What is the primary source of website traffic?
+
+![图片的描述](./Advanced SQL/1.1.png)
+
 
 ## 2. Website Performance Analysis  
 
