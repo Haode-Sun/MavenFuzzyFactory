@@ -33,12 +33,31 @@ Traffic source analysis refers to the process of evaluating and understanding th
 
 The leading three sources of primary traffic are Gsearch Nonbrand, Bsearch Nonbrand, and direct type-in. According to the results, Gsearch Nonbrand generates the most website sessions, making up 59.79% of the overall sessions. Bsearch Nonbrand follows in second place, contributing 11.61% of the total sessions. Direct type-in comes in third, accounting for 8.44% of the sessions.  
 
-## 2. Website Performance Analysis  
+### 1.2 How do different traffic channels perform in terms of conversion rates?  
 
 ![image](./image/1.2.png)
-![image](./image/1.3.png)
 
-From the results above, it is clear that five channels have conversion rates exceeding 7%. These channels are organic search, Bsearch Brand, Gsearch Brand, and direct type-in. Despite Gsearch Nonbrand and Bsearch Nonbrand being the main sources of traffic, their conversion rates are around 6.5%. Unfortunately, the socialbook channels underperform in both the desktop-focused campaign and pilot, with conversion rates of 5.15% and 1.08%, respectively.  
+From the results above, it is clear that five channels have conversion rates exceeding 7%. These channels are organic search, Bsearch Brand, Gsearch Brand, and direct type-in. Despite Gsearch Nonbrand and Bsearch Nonbrand being the main sources of traffic, their conversion rates are around 6.5%. Unfortunately, the socialbook channels underperform in both the desktop-focused campaign and pilot, with conversion rates of 5.15% and 1.08%, respectively.   
+
+## 2. Website Performance Analysis  
+
+Website performance refers to how effectively a website delivers its content and functionality to users. Analyzing website performance involves tracking and evaluating key performance indicators (KPIs), such as:  
+
+- **Conversion rates**: The proportion of visitors who complete specific actions, like making a purchase or placing an order.  
+- **Bounce rate**: The percentage of users who leave the site after viewing only one page.  
+- **User engagement**: Metrics that measure user interaction on the site, including page views and click-through rates.  
+
+The primary goal of assessing website performance is to identify bottlenecks, enhance the user experience, boost conversions, and optimize the website’s overall functionality. In this section, we aim to address the following questions:  
+
+### 2.1 What are the top entry pages?  
+
+### 2.2 What are the bounce rates associated with different entry pages?  
+
+### 2.3 What are the overall paid traffic bounce rate trend monthly of different entry page?  
+
+### 2.4 What are the most viewed and least viewed pages on the website? List the ranking of them.  
+
+
 ## 3. Conversion Funnel Analysis    
 
 ## 4. Channel Portfolio Management 
