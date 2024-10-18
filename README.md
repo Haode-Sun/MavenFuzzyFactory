@@ -102,5 +102,21 @@ Additionally, a seasonal pattern has been identified in the click-through rate f
 
 ## 3. Conversion Funnel Analysis    
 
+Conversion funnel analysis is a technique used to evaluate how website visitors or users progress through the different stages of a conversion process. The conversion funnel outlines the series of steps users take, beginning with awareness or discovery and leading to a desired action or conversion, such as making a purchase or placing an order. Through conversion funnel analysis, businesses can better understand user behavior, identify where users may drop off, and improve the overall conversion process. In this section, our goal is to complete the following task:
+
+- Build a conversion funnel to evaluate the conversion rates of the top two entry pages (‘/home’ and ‘/lander-2’) for paid traffic.
+
+### 3.1 Can the paid traffic conversion funnels be established to evaluate the conversion rates of the top 2 entry pages?  
+
+We solve this problem following the following steps: Step 1: Select all pageviews for relevant sessions. Step 2: Identify the sequence of placing an order. Step 3: Build the conversion funnel.  
+
+#### 3.1.1 Select all pageviews for relevant sessions  
+
+![image](./image/3.1.png)
+
+#### 3.1.2 Identify the sequence of placing an order  
+
+#### 3.1.3 Build the conversion funnel  
+
 ## 4. Channel Portfolio Management 
 
