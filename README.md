@@ -154,3 +154,27 @@ Based on the above results, it is evident that Gsearch is the dominant channel f
 ![image](./image/4.6.png)
 
 Based on the results above, it is evident that over a span of 4 years, the brand has significantly improved its reputation and recognition. The organic search rate has increased from an initial 0.0476 to the latest measurement of 0.1214, showcasing notable growth. Similarly, the direct type-in rate has seen an improvement from 0.0445 to 0.111, indicating increased brand familiarity among users. Furthermore, it is noteworthy that the paid brand search rate has also witnessed growth, rising from the original 0.0455 to the latest measurement of 0.1138. This suggests an increased investment in brand-specific advertising and an associated rise in user engagement. However, it is important to mention that the paid nonbrand search rate has experienced a decline, dropping from the initial 0.8624 to the latest measurement of 0.6539. This indicates a decrease in the effectiveness or focus on non-branded paid search campaigns, which warrants further investigation and potential optimization strategies.  
+
+## Findings and solutions
+
+ 1. **Website Traffic Sources and Conversion Rates**  
+   - **Finding**: Among the 472,871 website sessions analyzed, Gsearch Nonbrand contributed the largest portion with 59.79% (282,706 sessions), followed by Bsearch Nonbrand at 11.61% and direct type-in at 8.44%. Out of these sessions, 32,313 orders were placed, resulting in a 6.83% conversion rate. Despite Gsearch Nonbrand being the top traffic source, its conversion rate is lower at 6.66%, below the overall average. Similarly, Bsearch Nonbrand, despite significant traffic, also exhibits a lower conversion rate.  
+   - **Suggestion**: Investigate the reasons behind the low session-to-order conversion rates for Gsearch Nonbrand and Bsearch Nonbrand. Analyzing factors such as user intent, landing page experience, or potential distractions could uncover optimization opportunities to improve conversion performance for these high-traffic sources.
+
+2. **Landing Page Bounce Rates**  
+   - **Finding**: The overall bounce rate of paid traffic dropped from 0.6079 to 0.4023, with '/lander5' performing the best, while '/lander3' consistently experienced a high bounce rate, peaking at 58%. Despite the coexistence of three entry pages ('/home', '/lander3', and '/lander5'), '/lander3' lags in performance.  
+   - **Suggestion**: Investigate the high bounce rate on the '/lander3' page. Usability issues, content relevance, or visual layout could be contributing factors to the higher bounce rate. Addressing these issues will improve user engagement and potentially reduce bounce rates.
+
+3. **Product Page Performance**  
+   - **Finding**: The click-through rate for the 'Hudson River Mini Bear' product page remains significantly lower than expected, staying around 5% even after four months, while other new products typically achieve above 10% within the first month.  
+   - **Suggestion**: Analyze the reasons for the low click-through rate of the 'Hudson River Mini Bear.' Factors such as product positioning, marketing strategies, or visual presentation should be examined to enhance the product’s appeal and increase engagement.
+
+4. **Conversion Funnel Analysis**  
+   - **Finding**: In the conversion funnel analysis for paid traffic, the lowest conversion rate (0.4561) occurs from the specific product page to the cart page. Conversely, the highest rate (0.8225) is from the shipping page to the billing page. However, 36% of users abandon the purchase after reaching the billing page.  
+   - **Suggestion**: Investigate the drop-off from the billing page to the order placement page. One likely issue could be insufficient payment options, or user concerns about security. Enhancing the payment experience by offering more choices and ensuring a smooth process can help increase conversion rates.
+
+5. **Paid Nonbrand Search Decline**  
+   - **Finding**: The paid nonbrand search rate has dropped from 86% to 65%, indicating a significant decrease in effectiveness despite its role as a major traffic driver.  
+   - **Suggestion**: Investigate the decline in the paid nonbrand search rate. A thorough review of the campaign’s keyword targeting, ad copy, and audience segmentation is necessary to optimize the paid search strategy and regain performance.
+
+Each of these areas highlights potential opportunities for optimization that could lead to improved traffic quality, higher conversion rates, and a better overall user experience.
