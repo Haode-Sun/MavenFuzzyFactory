@@ -26,10 +26,7 @@ Maven Fuzzy Factory is a newly launched frictional eCommerce retail startup that
 
 ## 2. Website Performance Analysis  
 
-## 3. Channel Portfolio Management  
+## 3. Conversion Funnel Analysis    
 
-## 4. Business Patterns and Seasonality  
+## 4. Channel Portfolio Management 
 
-## 5. Product Analysis  
-
-## 6. User Analysis  
