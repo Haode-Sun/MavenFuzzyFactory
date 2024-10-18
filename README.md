@@ -116,7 +116,41 @@ We solve this problem following the following steps: Step 1: Select all pageview
 
 #### 3.1.2 Identify the sequence of placing an order  
 
+![image](./image/3.2.png)
+![image](./image/3.3.png)
+
 #### 3.1.3 Build the conversion funnel  
+
+![image](./image/3.4.png)
+![image](./image/3.5.png)
+
+Based on the results above, we can observe the following conversion rates: The conversion rate from the landing page to the product index page is 0.5505. The conversion rate from the product index page to the specific product page is 0.8222. The conversion rate from the specific product page to the cart page is 0.4561. The conversion rate from the cart page to the shipping page is 0.6913. The conversion rate from the shipping page to the billing page is 0.8225. The conversion rate from the billing page to the order page is 0.6305. Notably, the lowest conversion rate is observed from the specific product page to the cart page, while the highest conversion rate occurs from the shipping page to the billing page.  
 
 ## 4. Channel Portfolio Management 
 
+Channel portfolio analysis is a strategic method businesses use to assess and improve their marketing channels and investments. This approach involves evaluating the performance, efficiency, and profitability of the various channels a company uses to engage its target audience and promote its products or services. During the analysis, companies typically examine key metrics for each channel, such as audience reach, acquisition and conversion rates, costs, and return on investment (ROI). By thoroughly analyzing their channel portfolio, businesses can identify the top-performing channels, allocate resources more effectively, optimize their marketing efforts, and maximize ROI. The aim of channel portfolio analysis is to understand the contribution and impact of each marketing channel on the company’s overall business objectives. It enables businesses to make data-driven decisions regarding resource and budget allocation, as well as channel optimization.  
+
+Organic search refers to the process where users find a website through unpaid search engine results. When a user types a query into a search engine like Google and clicks on a non-advertising result, it is considered an organic search. These results are determined by the search engine's algorithm, which considers factors like relevance, authority, and user intent. On the other hand, direct type-in occurs when a user directly enters a website's URL into the browser's address bar, bypassing search engines or other referral sources. This indicates that the user is already familiar with the website or has the URL bookmarked and goes directly to the site by typing in the address.  
+
+In summary, organic search helps users discover a website through unpaid search engine listings, while direct type-in involves users manually entering the website URL without using search engines or referrals. Both organic search and direct type-in contribute to a comprehensive online presence—organic search drives targeted traffic from search engines, while direct type-in reflects strong brand recognition, trust, and loyalty. By focusing on improving organic search performance and building brand awareness, businesses can boost visibility, attract high-quality traffic, and nurture long-term relationships with their audience.  
+
+### 4.1 What is the distribution of traffic across various device types for each traffic source?
+
+#### 4.1.1 Calculate the total sessions for desktop and mobile respectively
+
+![image](./image/4.1.png)
+![image](./image/4.2.png)
+
+#### 4.1.2 Calculate the percentage for desktop and mobile of different utm_source
+
+![image](./image/4.3.png)
+![image](./image/4.4.png)
+
+Based on the above results, it is evident that Gsearch is the dominant channel for both mobile and desktop searches, with a share of 0.6922 and 0.6577, respectively. In contrast, the other three channels exhibit significantly lower shares, regardless of whether it is in the mobile or desktop category.  
+
+#### 4.1.3 What percentage of sessions originate from organic search, direct type-ins, and paid searches on a yearly basis?
+
+![image](./image/4.5.png)
+![image](./image/4.6.png)
+
+Based on the results above, it is evident that over a span of 4 years, the brand has significantly improved its reputation and recognition. The organic search rate has increased from an initial 0.0476 to the latest measurement of 0.1214, showcasing notable growth. Similarly, the direct type-in rate has seen an improvement from 0.0445 to 0.111, indicating increased brand familiarity among users. Furthermore, it is noteworthy that the paid brand search rate has also witnessed growth, rising from the original 0.0455 to the latest measurement of 0.1138. This suggests an increased investment in brand-specific advertising and an associated rise in user engagement. However, it is important to mention that the paid nonbrand search rate has experienced a decline, dropping from the initial 0.8624 to the latest measurement of 0.6539. This indicates a decrease in the effectiveness or focus on non-branded paid search campaigns, which warrants further investigation and potential optimization strategies.  
