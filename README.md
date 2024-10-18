@@ -1,4 +1,6 @@
 # MavenFuzzyFactory: E-commerce online retail using SQL
+## Background
+
 ## There Are Key Concepts To Be Covered:
 
 ### Traffic Analysis & Optimization: Dive into the intricacies of understanding and optimizing web traffic.
