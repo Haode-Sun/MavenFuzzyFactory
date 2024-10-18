@@ -31,10 +31,14 @@ Traffic source analysis refers to the process of evaluating and understanding th
 
 ![image](./image/1.1.png)
 
-
+The leading three sources of primary traffic are Gsearch Nonbrand, Bsearch Nonbrand, and direct type-in. According to the results, Gsearch Nonbrand generates the most website sessions, making up 59.79% of the overall sessions. Bsearch Nonbrand follows in second place, contributing 11.61% of the total sessions. Direct type-in comes in third, accounting for 8.44% of the sessions.  
 
 ## 2. Website Performance Analysis  
 
+![image](./image/1.2.png)
+![image](./image/1.3.png)
+
+From the results above, it is clear that five channels have conversion rates exceeding 7%. These channels are organic search, Bsearch Brand, Gsearch Brand, and direct type-in. Despite Gsearch Nonbrand and Bsearch Nonbrand being the main sources of traffic, their conversion rates are around 6.5%. Unfortunately, the socialbook channels underperform in both the desktop-focused campaign and pilot, with conversion rates of 5.15% and 1.08%, respectively.  
 ## 3. Conversion Funnel Analysis    
 
 ## 4. Channel Portfolio Management 
