@@ -51,12 +51,54 @@ The primary goal of assessing website performance is to identify bottlenecks, en
 
 ### 2.1 What are the top entry pages?  
 
+![image](./image/2.1.png)
+
+Based on the results, it is evident that the top two landing pages are "/home" and "/lander-2," which account for 29.09% and 27.74% respectively. Collectively, these two landing pages represent more than half of the total traffic.  
+
 ### 2.2 What are the bounce rates associated with different entry pages?  
+
+![image](./image/2.2.png)
+
+From the results mentioned above, it’s clear that the entry page '-lander-5' has the lowest bounce rate at 0.3687. Next, the '/home' entry page shows a slightly higher bounce rate of 0.4168, followed by '/lander-2' with a bounce rate of 0.4517. In contrast, the other three entry pages all have bounce rates above 0.5, which can be regarded as relatively high.  
 
 ### 2.3 What are the overall paid traffic bounce rate trend monthly of different entry page?  
 
+![image](./image/2.3.png)
+
+The results indicate a significant reduction in the overall bounce rate for paid traffic, dropping from 0.6079 to the most recent figure of 0.4023. The lowest bounce rate was recorded in February 2015 at 0.3957. Additionally, the data reveals entry and exit times for each landing page, showing that some pages overlapped in their operational periods. Notably, the "/home" and "/lander2" pages had the longest durations of 36 and 24 months, respectively. Conversely, "/lander1" and "/lander4" had bounce rates exceeding 0.5, leading to their discontinuation. Apart from "/home," both "/lander3" and "/lander5" are still active, while the other pages have been retired. It is also worth mentioning that "/lander2" outperformed "/lander3" from July 2013 to October 2014, but after a downturn in performance starting in November 2014, "/lander2" was eventually decommissioned.  
+
 ### 2.4 What are the most viewed and least viewed pages on the website? List the ranking of them.  
 
+![image](./image/2.4.png)
+
+By pulling out the “pageview_url” of a complete session, we know that the sequence of placing an order is :
+
+Page 1: entry pages which are '/home','/lander-1','/lander-2','/lander-3','/lander-4','/lander-5'
+
+Page 2:'/products',
+
+Page 3:'/the-original-mr-fuzzy'('/the-hudson-river-mini-bear','/the-birthday-sugar-panda','/the-forever-love-bear'),
+
+Page 4:'/cart',
+
+Page 5:'/shipping',
+
+Page 6:'/billing-2'('/billing')(‘/billing’ was withdrawn in January 2013.)
+
+Page 7:'/thank-you-for-your-order'
+
+In our analysis, we began by excluding the landing pages' URLs. It is evident that the "/products" pageview holds the top position. Following the product page, we identified four specific product pages. Among them, the "/the-original-mr-fuzzy" page emerged as the most popular, accumulating 162,525 views. However, the remaining three product pages received significantly less attention, with the "the-hudson-river-mini-bear" page having the lowest views at only 2,610. We need to investigate the underlying reasons for the low view count of this particular page.  
+
+![image](./image/2.4.1.png)
+
+Based on the results, it’s clear that the "/the-original-mr-fuzzy" product page has been maintained for the longest time compared to the other product pages. Next, we have the pages for "/the-forever-love-bear," "/the-birthday-sugar-panda," and "/the-hudson-river-mini-bear," which were introduced as new products in 2013, 2014, and 2015, respectively. Notably, the "/the-hudson-river-mini-bear" page has received the fewest views among these four. The variation in release dates suggests the need for a closer examination of their performance. Therefore, we analyzed the click-through rates of these four product pages on a monthly basis, using SQL codes to generate the results.  
+
+![image](./image/2.4.2.png)
+
+
+From the results, it's clear that the click-through rate for "/the-original-mr-fuzzy" has remained consistently stable over time. In contrast, the "/the-hudson-river-mini-bear" page consistently shows the lowest click-through rate. This isn't surprising given that it's the newest page and product among the four. Notably, while the other two products achieved click-through rates above 0.1 within the first month of release, "/the-hudson-river-mini-bear" took four months to reach a rate of around 0.05.  
+
+Additionally, a seasonal pattern has been identified in the click-through rate for "/the-forever-love-bear." February stands out as the month with the highest click-through rate, nearly 0.3, which aligns with expectations due to the increased interest around Valentine's Day.  
 
 ## 3. Conversion Funnel Analysis    
 
