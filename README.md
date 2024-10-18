@@ -1,6 +1,6 @@
 # MavenFuzzyFactory: E-commerce online retail using SQL
 ## Background
-
+Maven Fuzzy Factory is a newly launched frictional eCommerce retail startup that sells stuffed animals. The company was started on march 2012 and has been in operation for 3 years now.  
 ## There Are Key Concepts To Be Covered:
 
 1. Traffic Analysis & Optimization: Dive into the intricacies of understanding and optimizing web traffic.  
