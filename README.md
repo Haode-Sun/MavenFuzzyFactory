@@ -3,12 +3,13 @@
 
 ## There Are Key Concepts To Be Covered:
 
-### Traffic Analysis & Optimization: Dive into the intricacies of understanding and optimizing web traffic.
-Website Measurement & Testing: Explore methods to measure website performance and conduct effective testing.
-Channel Analysis & Optimization: Delve into strategies for analyzing and optimizing marketing channels.
-Product-Level Analysis: Uncover insights by analyzing data at the product level.
-User-Level Analysis: Understand user behavior through in-depth analysis.
-Skills To Be Used Throughout The Project:
+1. Traffic Analysis & Optimization: Dive into the intricacies of understanding and optimizing web traffic.  
+2. Website Measurement & Testing: Explore methods to measure website performance and conduct effective testing.  
+3. Channel Analysis & Optimization: Delve into strategies for analyzing and optimizing marketing channels.  
+4. Product-Level Analysis: Uncover insights by analyzing data at the product level.  
+5. User-Level Analysis: Understand user behavior through in-depth analysis.
+
+## Skills To Be Used Throughout The Project:
 
 Write advanced SQL queries that unleash the full potential of your Maven Fuzzy Factory database within MySQL Workbench.
 Tackle complex, multi-step data problems using subqueries and temporary tables.
